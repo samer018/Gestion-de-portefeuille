@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1515756956 source:c:\users\samer\desktop\gestion\bourse.cpp
+	"Bourse.h"
+
+1515769704 c:\users\samer\desktop\gestion\bourse.h
+	<vector>
+	<string>
+	"Date.h"
+	"Prix_journalier.h"
+
+1515770887 c:\users\samer\desktop\gestion\date.h
+	<iostream>
+
+1514738088 c:\users\samer\desktop\gestion\prix_journalier.h
+	<string>
+	"Date.h"
+
+1515578824 source:c:\users\samer\desktop\gestion\clienthumain .cpp
+	"Clienthumain.h"
+
+1515771096 c:\users\samer\desktop\gestion\clienthumain.h
+	<vector>
+	"Titre.h"
+	"Date.h"
+	"Bourse.h"
+	"Transaction.h"
+	<string>
+	<iostream>
+
+1515102672 c:\users\samer\desktop\gestion\titre.h
+	<string>
+
+1515343776 c:\users\samer\desktop\gestion\transaction.h
+	<string>
+
+1515705797 source:c:\users\samer\desktop\gestion\date.cpp
+	"Date.h"
+
+1515769508 source:c:\users\samer\desktop\gestion\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	"Bourse.h"
+	"Trader.h"
+	"Clienthumain.h"
+	"Date.h"
+	"Prix_journalier.h"
+	"Robotrader.h"
+	"Robotrader2.h"
+	"Titre.h"
+	"Transaction.h"
+
+1515580785 c:\users\samer\desktop\gestion\achatrobot.h
+	<vector>
+	<string>
+	"Transaction.h"
+	"Date.h"
+	"Robotrader.h"
+
+1515770887 c:\users\samer\desktop\gestion\robotrader.h
+	<iostream>
+	<string>
+	<vector>
+	"Trader.h"
+
+1515771384 c:\users\samer\desktop\gestion\trader.h
+	<string>
+	<vector>
+	"Titre.h"
+	"Date.h"
+	"Bourse.h"
+	"Transaction.h"
+	<iostream>
+	<cstdlib>
+
+1515581044 c:\users\samer\desktop\gestion\vendrerobo.h
+	<vector>
+	<string>
+	"Transaction.h"
+	"Date.h"
+	"Robotrader.h"
+
+1515109794 source:c:\users\samer\desktop\gestion\prix_journalier.cpp
+	"Prix_journalier.h"
+
+1515766555 source:c:\users\samer\desktop\gestion\robotrader.cpp
+	"Robotrader.h"
+
+1515241005 source:c:\users\samer\desktop\gestion\titre.cpp
+	"Titre.h"
+
+1515767092 source:c:\users\samer\desktop\gestion\trader.cpp
+	"Trader.h"
+
+1514332268 source:c:\users\samer\desktop\gestion\transaction.cpp
+	"Transaction.h"
+
+1515766934 source:c:\users\samer\desktop\gestion\robotrader2.cpp
+	"Robotrader2.h"
+
+1515771384 c:\users\samer\desktop\gestion\robotrader2.h
+	<iostream>
+	<string>
+	<vector>
+	"Trader.h"
+
+1515760556 source:c:\users\samer\documents\projet c++\gestion\bourse.cpp
+	"Bourse.h"
+
+1515773304 c:\users\samer\documents\projet c++\gestion\bourse.h
+	<vector>
+	<string>
+	"Date.h"
+	"Prix_journalier.h"
+
+1515774487 c:\users\samer\documents\projet c++\gestion\date.h
+	<iostream>
+
+1514741688 c:\users\samer\documents\projet c++\gestion\prix_journalier.h
+	<string>
+	"Date.h"
+
+1515582424 source:c:\users\samer\documents\projet c++\gestion\clienthumain .cpp
+	"Clienthumain.h"
+
+1515774696 c:\users\samer\documents\projet c++\gestion\clienthumain.h
+	<vector>
+	"Titre.h"
+	"Date.h"
+	"Bourse.h"
+	"Transaction.h"
+	<string>
+	<iostream>
+
+1515106272 c:\users\samer\documents\projet c++\gestion\titre.h
+	<string>
+
+1515347376 c:\users\samer\documents\projet c++\gestion\transaction.h
+	<string>
+
+1515709397 source:c:\users\samer\documents\projet c++\gestion\date.cpp
+	"Date.h"
+
+1515773108 source:c:\users\samer\documents\projet c++\gestion\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	"Bourse.h"
+	"Trader.h"
+	"Clienthumain.h"
+	"Date.h"
+	"Prix_journalier.h"
+	"Robotrader.h"
+	"Robotrader2.h"
+	"Titre.h"
+	"Transaction.h"
+
+1515774984 c:\users\samer\documents\projet c++\gestion\trader.h
+	<string>
+	<vector>
+	"Titre.h"
+	"Date.h"
+	"Bourse.h"
+	"Transaction.h"
+	<iostream>
+	<cstdlib>
+
+1515774487 c:\users\samer\documents\projet c++\gestion\robotrader.h
+	<iostream>
+	<string>
+	<vector>
+	"Trader.h"
+
+1515774984 c:\users\samer\documents\projet c++\gestion\robotrader2.h
+	<iostream>
+	<string>
+	<vector>
+	"Trader.h"
+
+1515113394 source:c:\users\samer\documents\projet c++\gestion\prix_journalier.cpp
+	"Prix_journalier.h"
+
+1515770155 source:c:\users\samer\documents\projet c++\gestion\robotrader.cpp
+	"Robotrader.h"
+
+1515770534 source:c:\users\samer\documents\projet c++\gestion\robotrader2.cpp
+	"Robotrader2.h"
+
+1515244605 source:c:\users\samer\documents\projet c++\gestion\titre.cpp
+	"Titre.h"
+
+1515770692 source:c:\users\samer\documents\projet c++\gestion\trader.cpp
+	"Trader.h"
+
+1514335868 source:c:\users\samer\documents\projet c++\gestion\transaction.cpp
+	"Transaction.h"
+
